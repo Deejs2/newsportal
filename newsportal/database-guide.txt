@@ -1,0 +1,6 @@
+open database--> name : login
+then 
+click on import 
+then
+select this login.sql file that i have sent.
+then import it..

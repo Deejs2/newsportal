@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    font-family: poppins;
+}
+
+header{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+
+    background-color: #30475e;
+    color: white;
+    padding: 20px 0;
+}
+
+header nav a{
+    color: white;
+    margin-right: 30px;
+    font-weight: 500;
+}
+
+.contact{
+    text-align: center;
+    font-size:40px;
+    margin-top: 15px;
+}
+
+.contact p{
+    font-size: 25px;
+    font-family:Georgia, 'Times New Roman', Times, serif
+}
